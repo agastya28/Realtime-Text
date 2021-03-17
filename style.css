@@ -1,0 +1,46 @@
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 5px 5px 5px pink;
+    margin: 0px;
+    background-color: rebeccapurple;
+}
+
+.heading1 {
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer {
+    color: white;
+    background-color: purple;
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+
+}
+
+canvas {
+    border: 5px solid #157885;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px plum;
+}
+
+#yummytummy {
+    font-size: 23px;
+    color: black;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+
+#yummybummy {
+    width: 60px;
+    height: 30px;
+    font-size: 10px;
+    background-color: plum;
+    border-radius: 20px;
+    border: 2px solid plum;
+}
